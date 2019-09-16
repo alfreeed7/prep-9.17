@@ -1,0 +1,52 @@
+h1
+{
+    text-align: center;
+    font-family: fantasy;
+}
+.first
+{
+    background-color: #f0f5f5;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    
+}
+.second
+{
+    background-color: #e0ebeb;
+    text-align: center;
+    border:1px solid;
+    border-radius: 5px;
+     margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    
+}
+.third
+{
+    background-color: #d1e0e0;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+     margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+}
+.fourth
+{
+    background-color: #c2d6d6;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 5px;
+     margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+}
+i
+{
+    font-weight:900;
+    font-size: 32;
+}
